@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Music</key>
+	<string>com.apple.Music</string>
+	<key>Safari</key>
+	<string>com.apple.mobilesafari</string>
+	<key>Messages</key>
+	<string>com.apple.MobileSMS</string>
+	<key>Mail</key>
+	<string>com.apple.mobilemail</string>
+	<key>Camera</key>
+	<string>com.apple.camera</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+Package: com.samstone.watchtweak
+Name: WatchTweak
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Sam Stone
+Author: Sam Stone
+Section: Tweaks
+Version: 0.0.1-9
+Installed-Size: 400
